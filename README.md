@@ -15,8 +15,8 @@ This project follows the **PACE** workflow:
 
 ## Files in this Repository
 * `MAIN PROJECT FOR ADVANCE DATA ANALYTICS.ipynb`: The main Jupyter Notebook containing all the Python code, EDA, model training, and evaluation.
-* `[Insert Dataset Name].csv`: The dataset used for model training. *(Note: Add this if you upload it)*
-* `[Insert Executive Summary Name].pdf`: A one-page business summary of the findings intended for external stakeholders. *(Note: Add this if you upload it)*
+* `[HR_capstone_dataset].csv`: The dataset used for model training. *(Note: Add this if you upload it)*
+* `[HR_Attrition_summary].pdf`: A one-page business summary of the findings intended for external stakeholders. *(Note: Add this if you upload it)*
 
 ## Tools & Libraries Used
 * **Language:** Python
